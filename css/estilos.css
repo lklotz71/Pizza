@@ -135,7 +135,7 @@ nav ul li a[data-contraste="0"] {
 }
 
 footer {
-  padding: 3% 0;
+  padding: 3% 10px;
    display: flex;
    position: relative;
    bottom: 0;
