@@ -1,6 +1,7 @@
 * {margin: 0; padding: 0} img {border : 0}
 body {
    font-family: Garamond;
+   flex-direction: column;
 } 
 /*START - Barra de Acessibilidade*/
 .center {
@@ -94,7 +95,7 @@ nav ul li a[data-contraste="0"] {
   color: #fdf210;
 }
 
-.row-top div{
+.main{
    margin: 0 auto;
 }
 
