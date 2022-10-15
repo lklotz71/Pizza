@@ -2,13 +2,10 @@
 
 
 img {border : 0}
-nav {
-   jstify-content: center;
-}
 
 body {
    font-family: Garamond;
-   max-width: 1200px;
+   max-width: 100%;
    margin: 0 auto;
 } 
 /*START - Barra de Acessibilidade*/
