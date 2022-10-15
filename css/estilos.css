@@ -1,6 +1,7 @@
 * {margin: 0; padding: 0} img {border : 0}
 body {
    font-family: Garamond;
+   margin: 0 auto;
 } 
 /*START - Barra de Acessibilidade*/
 .row {
